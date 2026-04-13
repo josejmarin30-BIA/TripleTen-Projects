@@ -1,0 +1,27 @@
+Manhattan vacation rental market. They want guidance on which property types to invest in, and your task is to analyze Airbnb data (in the spreadsheet to your right) for insights.
+
+You’ll make your recommendations by answering these questions: 
+
+Which neighborhoods and property sizes (i.e. number of bedrooms) are most attractive for vacation rentals?
+How much money did these listings generate?
+This project brief provides helpful tips and instructions to guide your analysis. The questions included will help ensure you're on the right track and offer feedback that you can use to refine your pivot tables or data cleaning techniques.
+
+1. Which neighborhoods and property sizes i.e. number of bedrooms are most attractive for vacation rentals?
+To answer this question, you’ll need to analyze the following information using pivot tables:
+
+The neighborhoods which are most attractive for vacation rentals
+The property sizes (i.e., how many bedrooms) that are most popular for vacation rentals
+If different neighborhoods have different preferences for property sizes
+
+Which 10 neighborhoods are most attractive for vacation rentals?
+Which size properties i.e., how many bedrooms are most popular for vacation rentals?
+Do different neighborhoods have different preferences for property sizes?
+Update the pivot table so you can recommend specific property sizes for each of the top 10 neighborhoods.
+
+2. How much money did the most attractive listings generate?
+At this point, we should have narrowed down our listings to the top-10 neighborhoods based on reviews in the last 12 months, and then the most popular-sized property for each of those neighborhoods. This comes down to 1-bedroom listings for all our top neighborhoods except for Midtown, whose most popular size was studios. Add a new column in listings called top_listing that has a value of 1 if a listing matches these criteria, else 0.
+
+Let’s calculate how much money our top listings made using the calendar sheet and use that as a way to rank the data. This can be done by summing the adjusted_price for each day a property is rented, then estimating annual revenue by multiplying the 30-day total by 12. Let’s prepare the data:
+
+Add a new column to the calendar data called revenue_earned, representing the revenue earned each night. If available is "f" (indicating the property was rented), set revenue_earned to the adjusted_price; otherwise, set it to $0.
+In the listings data, create a new column also called revenue_earned. Use the SUMIF() function to bring over the total revenue_earned from the 30-day calendar data.

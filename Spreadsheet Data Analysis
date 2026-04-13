@@ -1,16 +1,97 @@
-The analysis of Manhattan Airbnb data reveals clear investment priorities for vacation rental properties. The most attractive neighborhoods, measured by rental frequency via reviews in the last 12 months, are led by Harlem, Hell’s Kitchen, and Lower East Side (part of the top 10). Overall, 1-bedroom units dominate popularity with 1,265 listings, followed by 2-bedrooms (526) and studios (441). Neighborhood preferences are consistent: 1-bedroom properties are the clear favorite in Harlem and most top neighborhoods, except Midtown which favors studios. Filtering to these top neighborhoods and their optimal sizes, then ranking by actual 30-day revenue (summed from the calendar sheet and extrapolated to annual estimates by multiplying by 12), highlights the highest-earning listings for maximum ROI.
-These insights directly address the client’s need to identify the best property types for investment. By focusing capital on 1-bedroom (and select studio) listings in the top 10 high-review neighborhoods, the client can target proven high-occupancy areas that generate the strongest revenue. The accompanying bar chart of top neighborhoods by reviews, pivot tables showing bedroom preferences, and revenue-ranked listing table provide clear, visual support for these recommendations and reduce investment risk in the competitive Manhattan vacation rental market.
-Professional Project Description (ready for resume, LinkedIn, or portfolio)
-Completed an end-to-end data analysis project on Manhattan Airbnb vacation rentals to guide investment decisions. Cleaned and analyzed listings and calendar datasets in Excel, built pivot tables to identify high-performing neighborhoods and property sizes by rental frequency and revenue, created visualizations, and delivered an executive summary with data-driven recommendations. Documented all cleaning steps, assumptions, and methodology in a change log for transparency and reproducibility.
-Hard Skills Demonstrated
-	•	Advanced Excel proficiency: Pivot tables (multi-level, filtered, and calculated fields), data cleaning with TRIM, PROPER, and IF functions, SUMIF for cross-sheet revenue aggregation, and conditional formatting.
-	•	Data preparation and transformation: Created “neighborhood_clean” and “bedrooms_clean” columns, handled missing values (zero-bedroom studios), and standardized inconsistent text.
-	•	Revenue modeling: Calculated nightly revenue from calendar availability (“f” = rented), aggregated 30-day totals, and extrapolated to annual estimates (×12).
-	•	Data visualization: Built bar charts for top 10 neighborhoods by reviews_ltm and prepared pivot-based tables for neighborhood-specific bedroom preferences.
-	•	Project documentation: Maintained raw data copy, change log, executive summary, table of contents, and consistent professional formatting.
-Soft Skills Demonstrated
-	•	Analytical thinking & problem-solving: Defined “attractiveness” using reviews as a rental-frequency proxy, identified varying neighborhood preferences, and translated raw data into actionable investment recommendations.
-	•	Business acumen: Connected data insights directly to the client’s core challenge—choosing profitable property types (neighborhood + bedroom size) in a competitive vacation rental market.
-	•	Attention to detail & organization: Followed strict cleaning protocols, validated formulas (e.g., SUMIF ranges), ensured formatting consistency, and documented every step and assumption.
-	•	Communication & presentation: Created a concise two-paragraph status summary with visuals, related insights back to business needs, and produced a polished, professional deliverable suitable for stakeholder review.
-	•	Independent project management: Worked through a structured brief, iterated on pivot tables based on platform feedback, and completed all deliverables on time without supervision.
+📊 Project Description: Spreadsheet Data Analysis – Manhattan Vacation Rental Market
+
+Conducted a comprehensive data analysis of the Manhattan vacation rental market using spreadsheet tools to identify the most profitable investment opportunities. Cleaned and prepared raw Airbnb listing and calendar datasets by standardizing neighborhood names, handling missing bedroom values, and documenting all data transformation steps to ensure data integrity and reproducibility.
+
+Utilized pivot tables and data visualization techniques to evaluate rental demand across neighborhoods and property sizes, using customer reviews as a proxy for rental frequency. Identified top-performing neighborhoods such as Harlem, Hell’s Kitchen, and Lower East Side, and determined that 1-bedroom units were the most popular property size across most locations.
+
+Performed revenue analysis by calculating nightly earnings and estimating annual revenue using conditional formulas and aggregation functions. Generated actionable recommendations for stakeholders on optimal property investment strategies based on demand trends and revenue potential. Delivered findings through an executive summary, structured reporting, and visual dashboards to support data-driven decision-making.
+
+🧠 Hard Skills Demonstrated (Technical Skills)
+
+These are the resume-ready technical competencies you used in this project:
+
+Data Analysis & Spreadsheet Tools
+
+Microsoft Excel / Google Sheets
+Pivot Tables and Pivot Charts
+Data Cleaning and Data Preparation
+Data Validation and Standardization
+Data Aggregation and Filtering
+
+Formulas & Functions
+
+IF()
+SUMIF()
+Conditional logic
+Data transformation
+Revenue calculations
+Handling missing values
+
+Data Visualization
+
+Bar Charts
+Trend Analysis
+Performance Ranking
+Dashboard-style reporting
+
+Business & Analytical Skills
+
+Market Analysis
+Revenue Forecasting
+Investment Recommendation Modeling
+KPI Identification
+Demand Analysis
+
+Data Management
+
+Dataset documentation
+Change log tracking
+Data quality assurance
+Structured reporting
+🤝 Soft Skills Demonstrated (Professional Skills)
+
+These are the behavioral and workplace skills employers look for in Data/Business Analysts:
+
+Analytical Thinking
+
+Interpreted data to identify patterns and trends
+Evaluated property demand using proxy metrics
+Translated raw data into business insights
+
+Problem Solving
+
+Determined the most attractive neighborhoods and property sizes
+Identified revenue opportunities from rental data
+Developed recommendations based on data evidence
+
+Communication
+
+Presented findings in a clear executive summary
+Explained technical results to non-technical stakeholders
+Structured insights to support business decisions
+
+Attention to Detail
+
+Cleaned inconsistent data entries
+Verified formulas and calculations
+Maintained consistent formatting and documentation
+
+Business Acumen
+
+Connected data insights to investment strategy
+Focused analysis on profitability and demand
+Considered stakeholder goals and financial outcomes
+
+Organization & Documentation
+
+Created a change log for data cleaning steps
+Structured analysis workflow
+Maintained consistent formatting and reporting standards
+Resume Bullet Version (Short, Impactful)
+
+If you're adding this to your resume or portfolio, use this format:
+
+Analyzed Manhattan Airbnb rental data using Excel pivot tables and formulas to identify high-demand neighborhoods and optimal property sizes.
+Cleaned and standardized datasets by handling missing values, correcting inconsistent labels, and documenting data preparation steps.
+Calculated rental revenue using SUMIF and conditional logic to estimate annual earnings and rank top-performing listings.
+Developed data visualizations and an executive summary to present actionable investment recommendations to stakeholders.

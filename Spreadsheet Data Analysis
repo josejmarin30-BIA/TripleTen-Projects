@@ -87,11 +87,3 @@ Organization & Documentation
 Created a change log for data cleaning steps
 Structured analysis workflow
 Maintained consistent formatting and reporting standards
-Resume Bullet Version (Short, Impactful)
-
-If you're adding this to your resume or portfolio, use this format:
-
-Analyzed Manhattan Airbnb rental data using Excel pivot tables and formulas to identify high-demand neighborhoods and optimal property sizes.
-Cleaned and standardized datasets by handling missing values, correcting inconsistent labels, and documenting data preparation steps.
-Calculated rental revenue using SUMIF and conditional logic to estimate annual earnings and rank top-performing listings.
-Developed data visualizations and an executive summary to present actionable investment recommendations to stakeholders.

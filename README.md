@@ -4,7 +4,7 @@ Portfolio of completed projects I worked on while attending the Business Intelli
 | Project number | Title | Description |
 | :-----------: | ----------- |----------- |
 | 0 | [Project Status Report](https://github.com/josejmarin30-BIA/TripleTen-Projects/tree/main/Project%20Status%20Report) | Report Writting, Google Sheets, Data Visualizationn Interpretation. For a music streaming company call Fresh Beats. |
-| 1 | [Spreadsheet Data Analysis](PROJECT DIRECTORY LINK) | Data analysis project using Excel to evaluate Manhattan Airbnb listings, identify high-demand neighborhoods, and estimate annual revenue to support data-driven investment decisions.. |
+| 1 | [Spreadsheet Data Analysis](https://github.com/josejmarin30-BIA/TripleTen-Projects/blob/main/Spreadsheet%20Data%20Analysis/README.md) | Data analysis project using Excel to evaluate Manhattan Airbnb listings, identify high-demand neighborhoods, and estimate annual revenue to support data-driven investment decisions.. |
 | 2 | [Data Collection and Storage (SQL)](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
 | 3 | [Assessment: Business Analytics](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
 | 4 | [Superstore, Data Visualization with Tableau](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
